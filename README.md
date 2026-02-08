@@ -1,2 +1,2 @@
 # research
-research in growth data science and more
+research and notes in Stats, Maths, ML and AI
